@@ -1,0 +1,13 @@
+C:\Users\Pelea\Desktop\SocialMedia\SocialMedia\bin\Debug\netcoreapp2.1\SocialMedia.deps.json
+C:\Users\Pelea\Desktop\SocialMedia\SocialMedia\bin\Debug\netcoreapp2.1\SocialMedia.runtimeconfig.json
+C:\Users\Pelea\Desktop\SocialMedia\SocialMedia\bin\Debug\netcoreapp2.1\SocialMedia.runtimeconfig.dev.json
+C:\Users\Pelea\Desktop\SocialMedia\SocialMedia\bin\Debug\netcoreapp2.1\SocialMedia.dll
+C:\Users\Pelea\Desktop\SocialMedia\SocialMedia\bin\Debug\netcoreapp2.1\SocialMedia.pdb
+C:\Users\Pelea\Desktop\SocialMedia\SocialMedia\obj\Debug\netcoreapp2.1\SocialMedia.csproj.AssemblyReference.cache
+C:\Users\Pelea\Desktop\SocialMedia\SocialMedia\obj\Debug\netcoreapp2.1\SocialMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pelea\Desktop\SocialMedia\SocialMedia\obj\Debug\netcoreapp2.1\SocialMedia.AssemblyInfoInputs.cache
+C:\Users\Pelea\Desktop\SocialMedia\SocialMedia\obj\Debug\netcoreapp2.1\SocialMedia.AssemblyInfo.cs
+C:\Users\Pelea\Desktop\SocialMedia\SocialMedia\obj\Debug\netcoreapp2.1\SocialMedia.csproj.CoreCompileInputs.cache
+C:\Users\Pelea\Desktop\SocialMedia\SocialMedia\obj\Debug\netcoreapp2.1\SocialMedia.dll
+C:\Users\Pelea\Desktop\SocialMedia\SocialMedia\obj\Debug\netcoreapp2.1\SocialMedia.pdb
+C:\Users\Pelea\Desktop\SocialMedia\SocialMedia\obj\Debug\netcoreapp2.1\SocialMedia.genruntimeconfig.cache
